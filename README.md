@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh
-- 👀 I’m interested in Full Stack Application Developemnt
+- 👀 I’m interested in Full Stack Application Development
 - 🌱 I’m currently learning Required technology for application development
 - 📫 How to reach me saurabhdesale.dev@gmail.com
 
